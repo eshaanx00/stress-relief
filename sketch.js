@@ -1,5 +1,5 @@
 let engine = Matter.Engine.create();
-let Body = Matter.Bodies
+let Body = Matter.Bodies;
 let render = Matter.Render.create({
     element: document.body,
     engine: engine,
